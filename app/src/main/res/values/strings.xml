@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iniciar</string>
+    <string name="btn_inicar_secion"> Inciar secion</string>
+    <string name="btn_registrase"> Registrarse </string>
+
+    <string name="btn_registrasse"> Inciar secion</string>
+</resources>
